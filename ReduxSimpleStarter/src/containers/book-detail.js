@@ -24,5 +24,4 @@ function mapStateToProps(state) {
         book: state.activeBook
     };
 }
-
 export default connect(mapStateToProps)(BookDetail);
