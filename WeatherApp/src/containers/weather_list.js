@@ -23,7 +23,6 @@ class WeatherList extends Component {
         );
     }
 
-
     render() {
         return (
             <table className="table table-hover">
